@@ -1,10 +1,7 @@
 ﻿VRIJEDI OD (VALID FROM) 02.04.2021.;;;;;;;
 17 TRSTENIK - KAMPUS - LORA - SPINUT;;;;;;;
-sati;"RADNI DAN
-Working day";;;"SUBOTA
-Saturday";;"NEDJELJA I PRAZNIK
-Sunday & holiday";
-hours;minute;;;;;;
+;RADNI DAN;SUBOTA;NEDJELJA I PRAZNIK
+sati;;minute;
 05:;25;55;;30;;30;
 06:;40;;;10;45;10;45
 07:;00;30;45;20;55;20;55

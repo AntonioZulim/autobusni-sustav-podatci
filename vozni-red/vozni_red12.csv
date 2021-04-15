@@ -1,10 +1,7 @@
 ﻿VRIJEDI OD (VALID FROM) 15.02.2021.;;;;;;;
 ;;;8 ZVONČAC - ŽNJAN;;;;
-sati;"RADNI DAN
-Working day";;;;"SUBOTA
-Saturday";"NEDJELJA I PRAZNIK
-Sunday & holiday";
-hours;;;;;minute;;
+;RADNI DAN;SUBOTA;NEDJELJA I PRAZNIK
+sati;;minute;
 05:;25;50;;25;;;
 06:;25;;;00;45;55;
 07:;00;20;;30;;25;

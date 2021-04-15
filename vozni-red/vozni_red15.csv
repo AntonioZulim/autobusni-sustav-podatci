@@ -1,10 +1,7 @@
 ﻿VRIJEDI OD (VALID FROM) 02.04.2021.;;;;;
 11 SPINUT-KAMPUS-PUJANKE-RAVNE NJIVE;;;;;
-sati;"RADNI DAN
-Working day";;"SUBOTA
-Saturday";;"NEDJELJA I PRAZNIK
-Sunday & holiday"
-hours;minute;;;;
+;RADNI DAN;SUBOTA;NEDJELJA I PRAZNIK
+sati;;minute;
 05:;;;;;
 06:;25;;;;
 07:;00;30;00;35;N

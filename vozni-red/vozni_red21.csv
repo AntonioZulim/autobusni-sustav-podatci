@@ -1,10 +1,7 @@
 ﻿VRIJEDI OD (VALID FROM) 15.02.2021.;;;;;;
 16 NINČEVIĆI - HNK - NINČEVIĆI;;;;;;
-sati;"RADNI DAN
-Working day";;"SUBOTA
-Saturday";;"NEDJELJA I PRAZNIK
-Sunday & holiday";
-hours;minute;;;;;
+;RADNI DAN;SUBOTA;NEDJELJA I PRAZNIK
+sati;;minute;
 05:;00,;35;00,;35;00;
 06:;00,;40;00,;40;00;
 07:;10,;45;10,;45;00;

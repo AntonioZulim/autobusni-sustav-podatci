@@ -1,10 +1,7 @@
 ﻿VRIJEDI OD (VALID FROM) 15.03.2021.;;;;;;;;
 15 DUILOVO - ŽNJAN - TR. LUKA - DUILOVO;;;;;;;;
-sati;"RADNI DAN
-Working day";;;"SUBOTA
-Saturday";;;"NEDJELJA I PRAZNIK
-Sunday & holiday";
-hours;minute;;;;;;;
+;RADNI DAN;SUBOTA;NEDJELJA I PRAZNIK
+sati;;minute;
 05:;05,;30,;35;05,;30,;35;05,;30
 06:;05,;25;;05,;25;;05;
 07:;05,;25,;55;05,;25,;;05;40

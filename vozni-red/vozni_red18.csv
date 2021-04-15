@@ -1,11 +1,7 @@
 ﻿VRIJEDI OD (VALID FROM) 02.04.2021.;;;;
-"14 BRDA - KOPILICA - DUBROVAČKA -
-BOLNICE - ŽNJAN - DUILOVO";;;;
-sati;"RADNI DAN
-Working day";;"SUBOTA
-Saturday";"NEDJELJA I PRAZNIK
-Sunday & holiday"
-hours;minute;;;
+"14 BRDA - KOPILICA - DUBROVAČKA - BOLNICE - ŽNJAN - DUILOVO";;;;
+;RADNI DAN;SUBOTA;NEDJELJA I PRAZNIK
+sati;;minute;
 05:;;;;
 06:;;;;
 07:;;;;

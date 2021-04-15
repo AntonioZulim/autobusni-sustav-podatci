@@ -1,10 +1,7 @@
 ﻿VRIJEDI OD (VALID FROM) 11.09.2020.;;;
 2A K. SUĆURAC(STRINJE) - TR. LUKA - K. SUĆURAC(STRINJE);;;
-sati;"RADNI DAN
-Working day";"SUBOTA
-Saturday";"NEDJELJA I PRAZNIK
-Sunday & holiday"
-hours;minute;;
+;RADNI DAN;SUBOTA;NEDJELJA I PRAZNIK
+sati;;minute;
 05:;;;
 06:;;;
 07:;00;N;N

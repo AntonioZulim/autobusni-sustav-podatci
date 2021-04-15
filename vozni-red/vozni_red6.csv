@@ -1,10 +1,7 @@
 ﻿VRIJEDI OD (VALID FROM) 22.02.2021.;;;;
 5 DRAČEVAC - HNK - DRAČEVAC;;;;
-sati;"RADNI DAN
-Working day";;"SUBOTA
-Saturday";"NEDJELJA I PRAZNIK
-Sunday & holiday"
-hours;minute;;;
+;RADNI DAN;SUBOTA;NEDJELJA I PRAZNIK
+sati;;minute;
 05:;20;;20;
 06:;20;;20;15 - do HNK
 07:;20;;20;

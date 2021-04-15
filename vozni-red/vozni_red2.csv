@@ -1,10 +1,7 @@
 ﻿VRIJEDI OD (VALID FROM) 02.04.2021.;;;
 2 ZRAČNA L. - K. SUĆURAC (STRINJE) - POLJIČKA - SPLIT;;;
-sati;"RADNI DAN
-Working day";"SUBOTA
-Saturday";"NEDJELJA I PRAZNIK
-Sunday & holiday"
-hours;minute;;
+;RADNI DAN;SUBOTA;NEDJELJA I PRAZNIK
+sati;;minute;
 05:;;;
 06:;30;40;
 07:;;;N

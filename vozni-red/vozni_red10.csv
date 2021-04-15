@@ -1,10 +1,7 @@
 ﻿VRIJEDI OD (VALID FROM) 15.03.2021.;;;;;
 7 ZAPADNA OBALA -  SPINUT - ŽNJAN;;;;;
-sati;"RADNI DAN
-Working day";;"SUBOTA
-Saturday";;"NEDJELJA I PRAZNIK
-Sunday & holiday"
-hours;minute;;;;
+;RADNI DAN;SUBOTA;NEDJELJA I PRAZNIK
+sati;;minute;
 05:;;;;;
 06:;10,;30;10;;
 07:;10,;45;10,;45;
